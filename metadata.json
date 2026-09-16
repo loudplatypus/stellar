@@ -1,0 +1,5 @@
+{
+  "name": "Stellar",
+  "description": "An immersive 3D starfield landing page powered by React Three Fiber and Express.",
+  "requestFramePermissions": []
+}
